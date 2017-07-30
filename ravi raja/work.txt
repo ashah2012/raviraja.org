@@ -1,0 +1,5 @@
+1.javascript needs to be properly set. done.
+2.Adding of pages.
+3.Add about page.
+3.Social links.
+4.Contact page.
